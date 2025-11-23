@@ -1,0 +1,10 @@
+streamlit 
+langgraph
+langchain
+groq
+langchain-groq
+langchain-community
+tavily-python
+langchain-core
+numpy
+pandas
